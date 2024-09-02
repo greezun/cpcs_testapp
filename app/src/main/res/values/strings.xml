@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CPCSTest</string>
+    <string name="menu">Menu</string>
+    <string name="create_new">Create new item</string>
+    <string name="edit">Edit item</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_description">Enter description</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name:</string>
+    <string name="description">Description</string>
+    <string name="your_items">Your items</string>
+    <string name="add_item">Add item</string>
+    <string name="view_items">View items</string>
+</resources>
